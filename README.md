@@ -1,1 +1,1 @@
-# 📡 Point d’accès Wi-Fi avec hostapd + iptables
+# 📡 Point d’accès Wi-Fi avec hostapd 
