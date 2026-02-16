@@ -10,7 +10,7 @@ Pour cela il vous faudra :
 La carte Wi-Fi va permettre de diffuser le hotspots et la carte Ethernet va permettre de fournir la connexion internet au hotspots.
 
 ### ⚠️ Attention
-Si vous n'avez pas 2 carte résau, vous ne pourrez pas faire ce projet.
+Si vous n'avez pas 2 cartes réseau , vous ne pourrez pas faire ce projet.
 
 Pour savoir si la carte Wi-Fi dispose d'un mode AP, il faudra aller dans le terminal et faire la commande :
 ````bash
