@@ -24,8 +24,9 @@ sudo apt update && sudo apt upgrade
 ````
 Maintenant nous pouvons passer aux téléchargements des paquets hostapd, dnsmasq et iptables :
 ````bash
-sudo apt update
-sudo apt install hostapd dnsmasq iptables
+sudo apt install hostapd
+sudo apt install dnsmasq
+sudo apt install iptables
 ````
 
 
